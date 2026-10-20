@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "data": {
+    "id": 5891941,
+    "slug": "شقة-12738-متر-مربع-ب-4-غرف-5891941",
+    "propertyFor": "sale",
+    "category": "apartment",
+    "title": "شقة 127.38 متر مربع ب 4 غرف",
+    "price": 770000,
+    "currency": "ر.س",
+    "cityId": 273,
+    "districtId": 2170,
+    "city": "الرياض",
+    "district": "ظهرة لبن",
+    "address": "ظهرة لبن، غرب الرياض، الرياض",
+    "coordinates": {
+      "lat": 24.6205598,
+      "lng": 46.5086854
+    },
+    "isApproximateLocation": true,
+    "builtUpAreaSqm": 127.38,
+    "bedrooms": 4,
+    "isRegaLicensed": true,
+    "regaLicenceNumber": "209840",
+    "regaFullReference": "495464-SAU-BU-209840",
+    "publishedAt": "2026-08-16T22:29:26.795Z",
+    "descriptionText": "فرصة مميزة ونادرة\nشقة فاخرة للبيع في حي ظهرة لبن مؤثثه بالكامل اثاث فندقي جاهزة للسكن او الاستثمار\nسنة البناء: 2026",
+    "additionalAttributes": [
+      {
+        "key": "planNumber",
+        "label": "رقم المخطط",
+        "value": "2351/3"
+      },
+      {
+        "key": "landNumber",
+        "label": "رقم الأرض",
+        "value": "2252"
+      }
+    ],
+    "regaLicence": [
+      {
+        "key": "rega_information",
+        "label": "معلومات الهيئة العامة للعقار",
+        "fields": [
+          {
+            "key": "adLicenseNumber",
+            "label": "رقم رخصة الإعلان",
+            "value": "7100311316"
+          },
+          {
+            "key": "creationDate",
+            "label": "تاريخ الإصدار",
+            "value": "17/08/2026"
+          }
+        ]
+      }
+    ],
+    "viewCount": 130,
+    "viewWindowDays": 7,
+    "owner": {
+      "capacity": "individual_broker",
+      "roleEn": "Authorized Broker",
+      "regaAdvertiserLicence": "7100311316"
+    }
+  }
+}

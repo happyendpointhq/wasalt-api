@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "data": {
+    "groupId": 1012,
+    "lotCount": 13,
+    "currentLotId": 4828,
+    "page": 1,
+    "pageSize": 25,
+    "returned": 13,
+    "hasMore": false,
+    "lots": [
+      {
+        "auctionId": 4828,
+        "propertyId": 5891038,
+        "sequence": 1,
+        "title": "أرض زراعية 1,000,000م2 الخرج - جنوب مدينة الرياض",
+        "titleDeeds": [
+          "311515001229"
+        ],
+        "status": "live",
+        "subStatus": "sub-auction-live",
+        "startDate": "2026-09-01T08:00:00.000Z",
+        "endDate": "2026-09-03T16:40:00.000Z",
+        "bidCount": 0,
+        "registrationCount": 0,
+        "imageUrl": "https://assets.wasalt.com/properties/5891038/images/5429a8c8-061b-4e83-a62d-010621cb82a6.jpg"
+      },
+      {
+        "auctionId": 4829,
+        "propertyId": 5891041,
+        "sequence": 2,
+        "title": "أرض زراعية 2,000,000م2 - حوطة بني تميم",
+        "titleDeeds": [
+          "362003000970"
+        ],
+        "status": "live",
+        "subStatus": "sub-auction-live",
+        "bidCount": 0,
+        "registrationCount": 0
+      }
+    ]
+  }
+}

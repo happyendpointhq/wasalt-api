@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 273,
+      "name": "Riyadh",
+      "nameAr": "الرياض",
+      "propertyCount": 19552,
+      "iconUrl": "https://assets.wasalt.com/others/icons/riyadh_city_icon.png",
+      "zones": [
+        {
+          "id": 1,
+          "name": "East Riyadh",
+          "nameAr": "شرق الرياض",
+          "propertyCount": 5838
+        },
+        {
+          "id": 2,
+          "name": "South Riyadh",
+          "nameAr": "جنوب الرياض",
+          "propertyCount": 1476
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Jeddah",
+      "nameAr": "جدة",
+      "propertyCount": 10144,
+      "iconUrl": "https://assets.wasalt.com/others/icons/jeddah_city_icon.png",
+      "zones": [
+        {
+          "id": 1,
+          "name": "East Jeddah",
+          "nameAr": "شرق جدة",
+          "propertyCount": 1088
+        },
+        {
+          "id": 2,
+          "name": "South Jeddah",
+          "nameAr": "جنوب جدة",
+          "propertyCount": 1098
+        }
+      ]
+    }
+  ]
+}

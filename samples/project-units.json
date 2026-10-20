@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "data": {
+    "unitTypeTags": [
+      {
+        "id": 52,
+        "slug": "duplex",
+        "name": "دوبلكس"
+      }
+    ],
+    "units": [
+      {
+        "id": 12024,
+        "title": null,
+        "propertyType": "دوبلكس",
+        "propertyTypeSlug": "duplex",
+        "propertyTypeId": 52,
+        "salePrice": 1263595,
+        "currency": "ر.س",
+        "address": "الرمال, الشرق, الرياض",
+        "totalUnits": 1,
+        "availableUnits": 1,
+        "bedrooms": 5,
+        "bathrooms": null,
+        "plotAreaSqm": 250,
+        "builtUpAreaSqm": null,
+        "attributes": {
+          "noOfBedrooms": {
+            "value": 5,
+            "unit": null,
+            "label": "غرف نوم"
+          },
+          "carpetArea": {
+            "value": 250,
+            "unit": null,
+            "label": "مساحة الأرض"
+          }
+        }
+      },
+      {
+        "id": 12025,
+        "propertyTypeSlug": "duplex",
+        "salePrice": 1207901,
+        "bedrooms": 5,
+        "plotAreaSqm": 258,
+        "totalUnits": 1,
+        "availableUnits": 1
+      }
+    ]
+  }
+}

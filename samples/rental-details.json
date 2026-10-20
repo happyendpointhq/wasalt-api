@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "id": 6398,
+    "slug": "شقة-للحجز-6398",
+    "title": "استديو انيق هادئ بدخول ذاتي",
+    "category": "apartment",
+    "nightlyPrice": 350,
+    "nightlyPriceWithFee": 350,
+    "convenienceFeePercent": 0,
+    "currency": "ر.س",
+    "city": "الرياض",
+    "zone": "الملقا",
+    "district": "الملقا",
+    "coordinates": {
+      "lat": 24.81687114,
+      "lng": 46.60319958
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqm": 55,
+    "maxGuests": 4,
+    "minBookingDays": 1,
+    "rating": 0,
+    "reviewCount": 0,
+    "nightlyRateCalendar": [
+      {
+        "date": "2026-08-13",
+        "price": 320
+      },
+      {
+        "date": "2026-08-14",
+        "price": 320
+      }
+    ],
+    "amenityGroups": [
+      {
+        "group": "مطبخ",
+        "groupSlug": "kitchen",
+        "items": [
+          {
+            "slug": "refrigerator-1-37",
+            "name": "ثلاجة"
+          },
+          {
+            "slug": "coffee-1-36",
+            "name": "ركن قهوة"
+          }
+        ]
+      },
+      {
+        "group": "مرافق دورة المياه",
+        "groupSlug": "toilet-facilities",
+        "items": [
+          {
+            "slug": "shampoo-1-31",
+            "name": "شامبو"
+          }
+        ]
+      }
+    ],
+    "arrivalGuide": [
+      {
+        "key": "checkIn",
+        "label": "تسجيل الوصول",
+        "value": "3:00 م"
+      },
+      {
+        "key": "checkOut",
+        "label": "تسجيل المغادرة",
+        "value": "12:00 م"
+      }
+    ],
+    "houseRules": null,
+    "cancellationPolicy": "لا يمكن الغاء الحجز",
+    "regaLicenceNumber": "10593532",
+    "tourismLicenceNumber": "50037679",
+    "providerName": "Mabet",
+    "isHostVerified": false,
+    "publishedAt": "2026-08-10T12:00:04.655Z"
+  }
+}

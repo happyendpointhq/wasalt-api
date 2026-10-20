@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 2171,
+      "name": "Al-Mahdiyah",
+      "nameAr": "المهدية",
+      "propertyCount": 6570,
+      "medianPricePerSqm": 3200,
+      "medianBuiltUpAreaSqm": 24,
+      "currency": "SAR",
+      "areaUnit": "SQM"
+    },
+    {
+      "id": 2057,
+      "name": "Ar-Rimal",
+      "nameAr": "الرمال",
+      "propertyCount": 1555,
+      "medianPricePerSqm": 4000,
+      "medianBuiltUpAreaSqm": 48.1,
+      "currency": "SAR",
+      "areaUnit": "SQM"
+    }
+  ]
+}

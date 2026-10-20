@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "data": {
+    "estimatedCount": 1352,
+    "page": 1,
+    "pageSize": 10,
+    "returned": 10,
+    "hasMore": true,
+    "rentals": [
+      {
+        "id": 6398,
+        "slug": "شقة-للحجز-6398",
+        "title": "استديو انيق هادئ بدخول ذاتي",
+        "propertySubType": "شقة",
+        "nightlyPrice": 350,
+        "nightlyPriceWithFee": 350,
+        "convenienceFee": 0,
+        "currency": "ر.س",
+        "city": "الرياض",
+        "district": "الملقا",
+        "address": "الملقا, الرياض",
+        "coordinates": {
+          "lat": 24.81687114,
+          "lng": 46.60319958
+        },
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "areaSqm": 55,
+        "maxGuests": 4,
+        "minBookingDays": 1,
+        "rating": 0,
+        "reviewCount": 0,
+        "amenities": [
+          {
+            "id": 119,
+            "slug": "tv-1-14",
+            "nameEn": "TV",
+            "nameAr": "تلفزيون",
+            "groupEn": "Amenities",
+            "groupAr": "المرافق"
+          },
+          {
+            "id": 120,
+            "slug": "refrigerator-1-37",
+            "nameEn": "Refrigerator",
+            "nameAr": "ثلاجة",
+            "groupEn": "Kitchen",
+            "groupAr": "مطبخ"
+          }
+        ],
+        "regaLicenceNumber": "10593532",
+        "providerName": "Mabet",
+        "packageTier": "Daily Rental",
+        "imageFileNames": [
+          "98edce94-6a30-43d1-bc9a-dfbaebe46ef5.jpg",
+          "75bdd2a4-dbe2-42cd-9ea6-07becc9dffc6.jpg"
+        ],
+        "publishedAt": "2026-08-10T12:00:04.655Z"
+      }
+    ]
+  }
+}

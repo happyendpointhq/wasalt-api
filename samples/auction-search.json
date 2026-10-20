@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "estimatedCount": 358,
+    "page": 1,
+    "pageSize": 10,
+    "returned": 10,
+    "hasMore": true,
+    "auctionGroups": [
+      {
+        "groupId": 1017,
+        "name": "مزاد فرص عسير",
+        "status": "upcoming",
+        "format": "online",
+        "seller": "au-infath",
+        "sellerSlug": "au-infath",
+        "brokerageFirmName": "شركة تفاعل العقارية شركة شخص واحد",
+        "lotCount": 18,
+        "cityIds": [
+          329,
+          334
+        ],
+        "cityNames": [
+          "أبها",
+          "خميس مشيط"
+        ],
+        "startDate": "2026-08-31T07:00:00.000Z",
+        "endDate": "2026-09-02T16:50:00.000Z",
+        "durationValue": 2,
+        "durationUnit": "days",
+        "millisRemaining": 1210993089,
+        "serverTime": "2026-08-17T06:36:46.911Z",
+        "depositAmount": 3000,
+        "images": [
+          "https://assets.wasalt.com/infath/AuctionGroup/1017/3b350f61-4151-45cd-af8b-171c57af91af.png"
+        ],
+        "brochureUrls": [
+          "https://assets.wasalt.com/infath/AuctionGroup/1017/b2dbe5b6-3551-48bc-8158-e8a17c753bd8.pdf"
+        ],
+        "liveVideoUrl": null,
+        "brokerageFirmLogoUrl": "https://assets.wasalt.com/infath/BrokerageFirmLogo/3c4d5e7d-4035-4359-b097-479e73118066.png"
+      }
+    ]
+  }
+}

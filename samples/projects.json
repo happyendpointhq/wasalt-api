@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": {
+    "count": 12,
+    "projects": [
+      {
+        "id": 100577,
+        "slug": "مشروع-سما-الفرسان-2-فلل-للبيع-100577",
+        "title": "مشروع سما الفرسان 2 - فلل للبيع",
+        "propertyFor": "sale",
+        "salePriceMin": 1207901,
+        "salePriceMax": 2125861,
+        "currency": "ر.س",
+        "cityId": 273,
+        "zoneId": 1,
+        "districtId": 2057,
+        "city": "الرياض",
+        "zone": "الشرق",
+        "district": "الرمال",
+        "coordinates": {
+          "lat": 24.9435153247667,
+          "lng": 46.8193071355826
+        },
+        "unitTypes": [
+          {
+            "id": 52,
+            "slug": "duplex",
+            "name": "دوبلكس"
+          }
+        ],
+        "unitsTotal": 30,
+        "unitsAvailable": 30,
+        "unitsForSaleFromPrice": 1207901,
+        "carpetAreaMinSqm": 250,
+        "carpetAreaMaxSqm": 300,
+        "developer": {
+          "id": null,
+          "name": null,
+          "logoUrl": "https://cdn.wasalt.com/images/developer-sample-logo.png",
+          "about": null
+        },
+        "labels": [
+          {
+            "type": "under-construction",
+            "name": "Under Construction",
+            "nameAr": "تحت الإنشاء"
+          }
+        ],
+        "images": [
+          "https://assets.wasalt.com/compound/100577/images/1R9A8525_HDR.jpg-c37b57e8-5d3c-4264-818c-7152690cabaf.jpg"
+        ],
+        "updatedAt": "2026-07-26T10:55:58.476Z"
+      },
+      {
+        "id": 100576,
+        "title": "مشروع سما الفرسان 1 - فلل للبيع",
+        "salePriceMin": 1352882,
+        "salePriceMax": 1546750,
+        "zoneId": 1,
+        "unitsTotal": 20,
+        "unitsAvailable": 20,
+        "carpetAreaMinSqm": 250,
+        "carpetAreaMaxSqm": 294.45
+      }
+    ]
+  }
+}

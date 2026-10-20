@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "data": {
+    "id": 5891941,
+    "slug": "شقة-12738-متر-مربع-ب-4-غرف-5891941",
+    "propertyFor": "sale",
+    "category": "apartment",
+    "title": "شقة 127.38 متر مربع ب 4 غرف",
+    "price": 770000,
+    "salePrice": 770000,
+    "expectedRent": null,
+    "rentFrequency": null,
+    "currency": "ر.س",
+    "cityId": 273,
+    "districtId": 2170,
+    "district": "ظهرة لبن",
+    "address": "ظهرة لبن، غرب الرياض، الرياض",
+    "coordinates": {
+      "lat": 24.6205598,
+      "lng": 46.5086854
+    },
+    "isApproximateLocation": true,
+    "builtUpAreaSqm": 127.38,
+    "bedrooms": 4,
+    "isRegaLicensed": true,
+    "regaLicenceNumber": "209840",
+    "imageCount": 13,
+    "images": [
+      "https://assets.wasalt.com/properties/5891941/images/abba1816-6d45-4070-976b-551c53e7697b.jpg"
+    ],
+    "imageClassification": [
+      {
+        "classificationName": "kitchen",
+        "classificationScore": 0.994569301605225,
+        "name": "abba1816-6d45-4070-976b-551c53e7697b.jpg"
+      }
+    ],
+    "owner": {
+      "capacity": "individual_broker",
+      "regaAdvertiserLicence": "7100311316"
+    },
+    "streetInfo": [
+      {
+        "id": 397263,
+        "facing": "غربية",
+        "facingTypeId": 9,
+        "unit": "م"
+      }
+    ],
+    "packageTier": "premium-listing"
+  }
+}

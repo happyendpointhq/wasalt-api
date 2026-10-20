@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "data": {
+    "auctionId": 4734,
+    "groupId": 995,
+    "title": "أرص سكنية 899.95م2 بحي المسرة",
+    "assetType": "real_estate",
+    "subStatus": "sub-auction-closed-sold",
+    "cityId": 274,
+    "city": "جدة",
+    "address": "المسرة، جنوب جدة، جدة",
+    "coordinates": {
+      "lat": 21.2644219817422,
+      "lng": 39.2434717614938
+    },
+    "plotAreaSqm": 899.95,
+    "additionalAttributes": [
+      {
+        "key": "plotNumber",
+        "label": "رقم القطعة",
+        "value": "204"
+      },
+      {
+        "key": "planNumber",
+        "label": "رقم المخطط",
+        "value": "662 / ج / س"
+      }
+    ],
+    "followerCount": 0,
+    "images": [
+      "https://assets.wasalt.com/properties/5884382/images/c1e6101a-97bf-43c6-9598-384e2dae2869.jpeg"
+    ],
+    "group": {
+      "groupId": 995,
+      "name": "مزاد أصول جدة",
+      "format": "online",
+      "status": "infath-group-closed",
+      "videoUrl": "https://www.youtube.com/watch?v=bySQFJujxdg"
+    },
+    "managedBy": {
+      "roleEn": "Sales Agent",
+      "brokerageName": "شركة أكيم للإستثمار والتطوير العقاري",
+      "falLicenceNumber": "4200000260"
+    },
+    "bidding": {
+      "auctionId": 4734,
+      "propertyId": 5884382,
+      "status": "past",
+      "startingBid": 340000,
+      "highestBid": 403000,
+      "reservePrice": 0,
+      "bidIncrementMax": 3000,
+      "bidIncrementLadder": [
+        {
+          "from": 0,
+          "to": 499999,
+          "increment": 3000
+        },
+        {
+          "from": 500000,
+          "to": 999999,
+          "increment": 3000
+        }
+      ],
+      "depositAmount": 10000,
+      "buyerCommissionPercent": 2.5,
+      "pricingUnit": "total-price",
+      "landAreaSqm": 899.95,
+      "sellerSlug": "au-infath",
+      "auctionFormat": "online",
+      "startDate": "2026-08-08T07:00:00.000Z",
+      "endDate": "2026-08-10T13:42:29.000Z",
+      "isExtended": true,
+      "registration": {
+        "isOpen": true,
+        "startDate": "2026-08-04",
+        "endDate": "2026-08-10"
+      },
+      "serverTime": "2026-08-17T06:39:38.812Z"
+    },
+    "partialErrors": []
+  }
+}

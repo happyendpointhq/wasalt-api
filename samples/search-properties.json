@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "data": {
+    "estimatedCount": 20189,
+    "page": 1,
+    "pageSize": 16,
+    "returned": 12,
+    "hasMore": true,
+    "categoryFilterApplied": false,
+    "listings": [
+      {
+        "id": 5891941,
+        "slug": "6da34d00-fad3-4228-99a9-2aecfa5add86",
+        "propertyFor": "sale",
+        "category": "apartment",
+        "propertySubType": "شقة",
+        "title": "شقة 127.38 متر مربع ب 4 غرف",
+        "price": 770000,
+        "currency": "ر.س",
+        "cityId": 273,
+        "zoneId": 2170,
+        "districtId": 2170,
+        "city": "الرياض",
+        "district": "ظهرة لبن",
+        "territory": "غرب الرياض",
+        "address": "ظهرة لبن، غرب الرياض، الرياض",
+        "zipCode": "13787",
+        "coordinates": {
+          "lat": 24.6205598,
+          "lng": 46.5086854
+        },
+        "isApproximateLocation": true,
+        "builtUpAreaSqm": 127.38,
+        "bedrooms": 4,
+        "isRegaLicensed": true,
+        "regaLicenceNumber": "209840",
+        "regaFullReference": "495464-SAU-BU-209840",
+        "isAuction": false,
+        "createdAt": "2026-08-16T21:56:54.038Z",
+        "publishedAt": "2026-08-16T22:29:26.795Z",
+        "images": [
+          "https://assets.wasalt.com/properties/5891941/images/abba1816-6d45-4070-976b-551c53e7697b.jpg"
+        ],
+        "imageCount": 13,
+        "owner": {
+          "capacity": "individual_broker",
+          "roleEn": "Authorized Broker",
+          "regaAdvertiserLicence": "7100311316"
+        },
+        "score": 100,
+        "leadCount": 0,
+        "packageTier": "premium-listing"
+      }
+    ],
+    "promotedProjects": [
+      {
+        "id": 100577,
+        "title": "مشروع سما الفرسان 2 - فلل للبيع",
+        "salePriceMin": 1207901,
+        "salePriceMax": 2125861,
+        "unitsAvailable": 30,
+        "cityId": 273
+      }
+    ]
+  }
+}
