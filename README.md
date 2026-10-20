@@ -345,7 +345,7 @@ tables above summarise them, and [`samples/`](samples/) has example responses.
 ### How do I get a Wasalt API key?
 
 Subscribe to the API on RapidAPI. Your key appears in the playground, and every request sends
-it in the `x-rapidapi-key` header. Plans, including any free tier, are listed there.
+it in the `x-rapidapi-key` header. There is a free plan, and every endpoint can be tried on it.
 
 ### Can I scrape Wasalt data for all of Saudi Arabia?
 
