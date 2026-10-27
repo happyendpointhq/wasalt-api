@@ -379,6 +379,7 @@ PropertyFinder in the UAE. See the
 
 - [aqar-api](https://github.com/happyendpointhq/aqar-api) - Aqar, the other big Saudi property portal: listings, district prices and developer projects
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - real estate APIs and data sources by country, including free and official ones
+- [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish property listings for sale and rent, prices and district counts
 - [uae-real-estate-data-guide](https://github.com/happyendpointhq/uae-real-estate-data-guide) - accessing Gulf property data next door in the UAE
 - [bayut-api](https://github.com/happyendpointhq/bayut-api) - Bayut UAE listings, agents, transactions and off-plan projects
 
